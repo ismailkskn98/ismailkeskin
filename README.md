@@ -13,5 +13,5 @@
   <a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue" width="45" height="45"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="45" height="45"/> </a>
   <a href="https://nextjs.org/docs" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="next" width="45" height="45"/> </a>
-  <a href="https://expressjs.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="express" width="45" height="45"/> </a>
+  <a href="https://expressjs.com/" target="_blank"> <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="45" height="45"/> </a>
 </p>
