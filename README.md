@@ -13,6 +13,7 @@
   <a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue" width="45" height="45"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="45" height="45"/> </a>
   <a href="https://nextjs.org/docs" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="next" width="45" height="45"/> </a>
-  <a href="https://expressjs.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="express" width="45" height="45"/> </a>
+  <a href="https://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="45" height="45"/> </a>
+  <a href="https://sequelize.org/docs/v6/getting-started/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="45" height="45"/> </a>
   <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="mysql" width="45" height="45"/> </a>
 </p>
